@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Your Mom</title>
+    <title>Your Baker</title>
   </head>
   <body>
     <?php
-      $foo = " your Mom "
+      $foo = " your Baker "
     ?>
-    <?php echo "Hello" . " Mom!"; ?><br>
+    <?php echo "Hello" . " Baker!"; ?><br>
     <?php echo 2 + 3; ?><br>
     Check it: <?php echo $foo; ?><br>
     Check it again: <?php echo strtoupper($foo); ?><br>
